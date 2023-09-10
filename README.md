@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Grzegorz
-- 👀 I’m interested in Test automation
-- 🌱 I’m continously learning Cypress, Postman
+- 👀 I’m interested in Fullstack development
+- 🌱 I’m continously learning Next.js, vue, Nest, JavaScript
 - 📫 Mail me gstraczek13@gmail.com
 
 <!---
