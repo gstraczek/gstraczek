@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Grzegorz
 - 👀 I’m interested in Fullstack development
-- 🌱 I’m continously learning Next.js, vue, Nest, JavaScript
+- 🌱 I’m continously learning React, Next, vue, Nest, JavaScript
 - 📫 Mail me gstraczek13@gmail.com
 
 <!---
