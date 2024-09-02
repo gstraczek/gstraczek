@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Grzegorz
-- 👀 I’m interested in Fullstack development
+- 👀 I’m interested in Fullstack development / automation tesing
 - 🌱 I’m continously learning React, Next, vue, Nest, JavaScript
 - 📫 Mail me gstraczek13@gmail.com
 
